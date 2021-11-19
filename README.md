@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Data Scientis, Machine Learning, python dan javascript;
+- Learn and always learn new things, stay positive dan cool.
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <a href="https://github.com/Z4nR">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melinadwisafitri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Z4nR&layout=compact&langs_count=8&theme=algolia"/>-->
+</a>
+<div>
+
 <!--
 **melinadwisafitri/melinadwisafitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
